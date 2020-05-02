@@ -1,17 +1,22 @@
+GIT
+  remote: https://github.com/swarley/discordrb
+  revision: 6d447b3c1ab0ec708434629eaf788aaae125092e
+  branch: voice_websocket_update
+  specs:
+    discordrb (3.3.0)
+      discordrb-webhooks (~> 3.3.0)
+      ffi (>= 1.9.24)
+      opus-ruby
+      rest-client (>= 2.0.0)
+      websocket-client-simple (>= 0.3.0)
+    discordrb-webhooks (3.3.0)
+      rest-client (>= 2.1.0.rc1)
+
 GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    discordrb (3.3.0)
-      discordrb-webhooks (~> 3.3.0)
-      ffi (>= 1.9.24)
-      opus-ruby
-      rbnacl (~> 3.4.0)
-      rest-client (>= 2.1.0.rc1)
-      websocket-client-simple (>= 0.3.0)
-    discordrb-webhooks (3.3.0)
-      rest-client (>= 2.1.0.rc1)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
     dotenv (2.7.5)
@@ -43,8 +48,6 @@ GEM
       ffi
     public_suffix (4.0.4)
     rake (12.3.3)
-    rbnacl (3.4.0)
-      ffi
     rest-client (2.1.0)
       http-accept (>= 1.7.0, < 2.0)
       http-cookie (>= 1.0.2, < 2.0)
@@ -62,7 +65,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  discordrb
+  discordrb!
   dotenv (~> 2.7)
   http
   jwt
