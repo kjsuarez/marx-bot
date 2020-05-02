@@ -7,6 +7,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem 'http'
 gem 'jwt'
 gem 'discordrb'
+gem 'nokogiri'
 
 group :development do
   gem "rake", "~> 12.3"
