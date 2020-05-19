@@ -194,6 +194,19 @@ bot.message(containing: '!cena') do |event|
   end
 end
 
+bot.message(containing: '!horn') do |event|
+  begin
+    channel = event.user.voice_channel
+    bot.voice_connect(channel)
+    voice_bot = event.voice
+    voice_bot.play_file('assets/horn.mp3')
+
+    voice_bot.destroy
+  rescue Exception => e
+    puts "big OOPS #{e}"
+  end
+end
+
 def get_lewd()
   lewd_page = Nokogiri::HTML(open('https://rule34.xxx/index.php?page=post&s=random'))
   lewd_link = lewd_page.css('img')[2].attributes["src"].value
