@@ -1,5 +1,5 @@
 require 'discordrb'
-require 'dotenv/load'
+# require 'dotenv/load' # Only for local use
 require 'nokogiri'
 require 'open-uri'
 require 'pry'
