@@ -1,4 +1,4 @@
-ruby "2.6.0"
+ruby "2.5.1"
 
 source "https://rubygems.org"
 
@@ -8,9 +8,9 @@ gem 'http'
 gem 'jwt'
 gem 'discordrb', github: 'swarley/discordrb', branch: 'voice_websocket_update'
 gem 'nokogiri'
+gem 'pry'
 
 group :development do
   gem "rake", "~> 12.3"
   gem "dotenv", "~> 2.7"
 end
-

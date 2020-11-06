@@ -2,6 +2,7 @@ require 'discordrb'
 require 'dotenv/load'
 require 'nokogiri'
 require 'open-uri'
+require 'pry'
 
 bot = Discordrb::Bot.new token: ENV['BOT_TOKEN']
 
@@ -13,6 +14,14 @@ NOUN_DICT = JSON.parse(File.read(NOUN_PATH))
 
 SLOGAN_PATH = File.join(File.dirname(__FILE__), "lib/slogans.json")
 SLOGAN_DICT = JSON.parse(File.read(SLOGAN_PATH))
+
+bot.message(containing: '!slogan') do |event|
+  has_specific = event.message.to_s.include?(">>")
+  specific = event.message.to_s.split(">>").last
+  puts "event: #{event.user.id.class}"
+
+   event.respond("\"#{get_slogan}\"")
+end
 
 bot.message(containing: '!kneel') do |event|
   has_specific = event.message.to_s.include?(">>")
@@ -45,6 +54,7 @@ end
 bot.message(containing: '!normal') do |event|
   event.server.members.each{ |member|
     begin
+       puts member.nick
       current = member.nick
       new_name = member.username
       member.set_nickname(new_name)
@@ -64,6 +74,23 @@ bot.message(containing: '!normal') do |event|
   ]
 
    event.respond(response_list.sample)
+
+  # puts "HERE"
+  # binding.pry
+  # begin
+  #   event.server.members.each{ |member|
+  #     puts member.nick
+  #     begin
+  #       current = member.nick
+  #       new_name = member.username
+  #       member.set_nickname(new_name)
+  #     rescue Exception => e
+  #       puts "big OOPS #{e}"
+  #     end
+  #   }
+  # rescue Exception => e
+  #   puts "big OOPS #{e}"
+  # end
 end
 
 bot.message(containing: '!silence') do |event|
