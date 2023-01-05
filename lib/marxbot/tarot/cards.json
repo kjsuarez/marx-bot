@@ -1,0 +1,2689 @@
+{
+  "cards": [
+    {
+      "id": 999,
+      "name": "",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "test"
+          ],
+          "nouns": [
+            "test"
+          ],
+          "verbs": [
+            "test"
+          ],
+          "adjectives": [
+            "test"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "test"
+          ],
+          "verbs": [
+            "test"
+          ],
+          "adjectives": [
+            "test"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Ace of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [],
+          "nouns": [
+            "you",
+            "the self",
+            "yourself",
+            "the seeker",
+            "wealth",
+            "money",
+            "assets",
+            "reward"
+          ],
+          "verbs": [
+            "gain",
+            "earn",
+            "increase",
+            "inherit"
+          ],
+          "adjectives": [
+            "potential",
+            "prosperous",
+            "rich"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "you",
+            "the self",
+            "yourself",
+            "the seeker",
+            "wealth",
+            "destitution",
+            "debt",
+            "loss"
+          ],
+          "verbs": [
+            "squander",
+            "recuse",
+            "lose",
+            "misplace",
+            "lose ones job"
+          ],
+          "adjectives": [
+            "spendthrift",
+            "poor",
+            "wasted",
+            "destitute"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "2 of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [],
+          "nouns": [
+            "work life balance",
+            "budget",
+            "rent"
+          ],
+          "verbs": [
+            "manage",
+            "watch ones money",
+            "spend carefully",
+            "watch the books"
+          ],
+          "adjectives": [
+            "balanced",
+            "careful",
+            "diligent"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "gambler",
+            "rake",
+            "risk taker",
+            "player",
+            "poverty"
+          ],
+          "verbs": [
+            "gamble",
+            "squander",
+            "struggle"
+          ],
+          "adjectives": [
+            "poor",
+            "struggling",
+            "pennyless"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "3 of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "nouns": [
+            "worker",
+            "union",
+            "laborer",
+            "guild",
+            "company",
+            "buisiness",
+            "job",
+            "career",
+            "fellowship"
+          ],
+          "verbs": [
+            "work",
+            "join",
+            "collaborate",
+            "work together",
+            "join forces",
+            "unionize"
+          ],
+          "adjectives": [
+            "focused",
+            "skilled",
+            "hard working"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "union buster",
+            "gang boss",
+            "boss",
+            "manager",
+            "hustler",
+            "CEO",
+            "executive",
+            "scab",
+            "collaborator"
+          ],
+          "verbs": [
+            "sloutch",
+            "discorporate",
+            "ignore",
+            "do work poorly"
+          ],
+          "adjectives": [
+            "unskilled",
+            "sloppy",
+            "uninvolved",
+            "selfish",
+            "short sighted",
+            "disinterested"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "4 of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [],
+          "nouns": [
+            "public servant",
+            "giver",
+            "philanthropist"
+          ],
+          "verbs": [
+            "give away",
+            "lend",
+            "forgive"
+          ],
+          "adjectives": [
+            "charitable",
+            "giving",
+            "unselfish"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "the hoarder",
+            "the miser",
+            "selfish counterpart"
+          ],
+          "verbs": [
+            "hoard",
+            "steal",
+            "stockpile",
+            "accumulate"
+          ],
+          "adjectives": [
+            "money hungry",
+            "greedy",
+            "selfish"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "5 of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "beware great expense"
+          ],
+          "nouns": [
+            "poverty",
+            "dire straits",
+            "great need",
+            "destitution"
+          ],
+          "verbs": [
+            "beware great expense",
+            "work hard",
+            "look out"
+          ],
+          "adjectives": [
+            "poor",
+            "desperate",
+            "hungry"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "bootstraper",
+            "up and commer"
+          ],
+          "verbs": [
+            "relax",
+            "rejoice"
+          ],
+          "adjectives": [
+            "lucky",
+            "improving"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "6 of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [],
+          "nouns": [
+            "market",
+            "marketplace",
+            "shop"
+          ],
+          "verbs": [
+            "change hands",
+            "share",
+            "give willingly",
+            "recieve willingly"
+          ],
+          "adjectives": [
+            "transactional"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "market",
+            "marketplace",
+            "shop",
+            "thief",
+            "trickster"
+          ],
+          "verbs": [
+            "take by force",
+            "give begrudgingly",
+            "lose money"
+          ],
+          "adjectives": []
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "7 of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "work for the work's own sake"
+          ],
+          "nouns": [
+            "hard work",
+            "earned reward"
+          ],
+          "verbs": [
+            "farm",
+            "reap",
+            "sow"
+          ],
+          "adjectives": [
+            "earned",
+            "hard fought"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "it is never to late to start over"
+          ],
+          "nouns": [
+            "lay about",
+            "fuck up",
+            "rolling stone",
+            "wanderer"
+          ],
+          "verbs": [
+            "waste time",
+            "squander",
+            "take for granted"
+          ],
+          "adjectives": [
+            "irrisponsible",
+            "lazy",
+            "care free"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "8 of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [],
+          "nouns": [
+            "new job",
+            "change of circumstances",
+            "opportunity"
+          ],
+          "verbs": [
+            "change of fortune",
+            "have a change of circumstances"
+          ],
+          "adjectives": [
+            "sudden",
+            "unexpected"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "bad luck",
+            "bad fortune"
+          ],
+          "verbs": [
+            "lose"
+          ],
+          "adjectives": [
+            "sudden",
+            "unexpected",
+            "unwelcome"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "9 of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "consider investing"
+          ],
+          "nouns": [
+            "status",
+            "wealth",
+            "petty luxery"
+          ],
+          "verbs": [
+            "lounging",
+            "lazing",
+            "relaxing"
+          ],
+          "adjectives": [
+            "aloof",
+            "upper class"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "warning",
+            "bad weather",
+            "bad market",
+            "fall from grace"
+          ],
+          "verbs": [
+            "mistreat",
+            "misjudge",
+            "disrespect"
+          ],
+          "adjectives": [
+            "remote",
+            "alone",
+            "lonely"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "10 of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [],
+          "nouns": [
+            "Holiday",
+            "jubilee"
+          ],
+          "verbs": [
+            "earning",
+            "possess"
+          ],
+          "adjectives": [
+            "abundance",
+            "plenty",
+            "wealthy",
+            "busy"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "bad turn",
+            "misfortune",
+            "poverty"
+          ],
+          "verbs": [
+            "go without",
+            "need",
+            "beg"
+          ],
+          "adjectives": [
+            "broke",
+            "poor",
+            "hungry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Page of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [],
+          "nouns": [
+            "new job",
+            "financial oportunity"
+          ],
+          "verbs": [
+            "try new things",
+            "seek new work",
+            "earn"
+          ],
+          "adjectives": [
+            "potential",
+            "exciting",
+            "hopeful"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "nonstarter",
+            "quiter",
+            "failure"
+          ],
+          "verbs": [
+            "fail",
+            "fall apart",
+            "fall short",
+            "childish"
+          ],
+          "adjectives": [
+            "foolhardy",
+            "illusionary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Knight of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [],
+          "nouns": [
+            "career",
+            "go getter",
+            "ladder climber",
+            "snake in the grass"
+          ],
+          "verbs": [
+            "grow career"
+          ],
+          "adjectives": [
+            "determined",
+            "focused",
+            "powerful"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "forgery",
+            "ladder climber",
+            "snake in the grass"
+          ],
+          "verbs": [
+            "fall from grace",
+            "scheme",
+            "plan",
+            "cheat"
+          ],
+          "adjectives": [
+            "over confident",
+            "prideful",
+            "unaware"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Queen of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [],
+          "nouns": [
+            "woman",
+            "misteress",
+            "matron",
+            "girl boss",
+            "power goose"
+          ],
+          "verbs": [
+            "watch",
+            "plan",
+            "listen"
+          ],
+          "adjectives": [
+            "composed",
+            "concise",
+            "self aware",
+            "sexy",
+            "fem"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [],
+          "verbs": [
+            "watch",
+            "plan",
+            "listen",
+            "lambaste"
+          ],
+          "adjectives": [
+            "cold",
+            "calculating",
+            "frigid",
+            "conniving",
+            "conceited"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "King of Coins",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [],
+          "nouns": [
+            "wealthy man",
+            "new yorker",
+            "land owner"
+          ],
+          "verbs": [
+            "own",
+            "posses",
+            "claim"
+          ],
+          "adjectives": [
+            "obscene",
+            "grand",
+            "generous"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "asshole",
+            "monopoly"
+          ],
+          "verbs": [
+            "own",
+            "posses",
+            "claim"
+          ],
+          "adjectives": [
+            "gratuitous"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Ace of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "look it's a big 'ol stick"
+          ],
+          "nouns": [
+            "creation",
+            "origin",
+            "invention"
+          ],
+          "verbs": [
+            "create"
+          ],
+          "adjectives": [
+            "creative",
+            "potent",
+            "one of a kind"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "watch out for that big stick"
+          ],
+          "nouns": [
+            "decadence",
+            "perdition",
+            "ruin"
+          ],
+          "verbs": [
+            "disrupt",
+            "cloud",
+            "overshadow"
+          ],
+          "adjectives": [
+            "utter",
+            "devastated",
+            "utter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "2 of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "you have options"
+          ],
+          "nouns": [
+            "choice",
+            "decision",
+            "option"
+          ],
+          "verbs": [
+            "choose",
+            "pick",
+            "decide"
+          ],
+          "adjectives": [
+            "meaningful",
+            "considerate",
+            "fair",
+            "careful"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "do the right thing"
+          ],
+          "nouns": [
+            "no plan",
+            "lesser of two evils",
+            "rock and a hard place"
+          ],
+          "verbs": [
+            "procrastinate",
+            "put off",
+            "defer",
+            "ignore"
+          ],
+          "adjectives": [
+            "unclear",
+            "complicated",
+            "subtle",
+            "wayword"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "3 of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "seek knowledge and find it"
+          ],
+          "nouns": [
+            "great power",
+            "slow growth",
+            "mind's reward"
+          ],
+          "verbs": [
+            "finally understand",
+            "learn by doing"
+          ],
+          "adjectives": [
+            "sharp",
+            "wise",
+            "clear"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "one day you will learn"
+          ],
+          "nouns": [
+            "judgement",
+            "folly",
+            "frippery"
+          ],
+          "verbs": [
+            "learn the hard way",
+            "ignore",
+            "misunderstand"
+          ],
+          "adjectives": [
+            "clouded",
+            "vague",
+            "simple"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "4 of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "Try to get along with your coworkers"
+          ],
+          "nouns": [
+            "team",
+            "workspace",
+            "group"
+          ],
+          "verbs": [
+            "cooperate",
+            "work together",
+            "collaborate"
+          ],
+          "adjectives": [
+            "harmonize",
+            "maintained",
+            "in-sync"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "Learn to work well with others"
+          ],
+          "nouns": [
+            "office politics",
+            "gossip",
+            "unhealthy work culture"
+          ],
+          "verbs": [
+            "disagree",
+            "bicker",
+            "fight"
+          ],
+          "adjectives": [
+            "discordant",
+            "disagreeing",
+            "incongruous"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "5 of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "Consider therapy"
+          ],
+          "nouns": [
+            "mental illness",
+            "melt down",
+            "mental breakdown"
+          ],
+          "verbs": [
+            "fall apart",
+            "break down",
+            "have a panick attack"
+          ],
+          "adjectives": [
+            "sick",
+            "hurting",
+            "depressed"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "Give the medicine a chance"
+          ],
+          "nouns": [
+            "therapy",
+            "antidepressant",
+            "coping mechanism"
+          ],
+          "verbs": [
+            "ask for help",
+            "sooth",
+            "cry"
+          ],
+          "adjectives": [
+            "healing",
+            "growing",
+            "recuperating"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "6 of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "bad dreams happen for a reason"
+          ],
+          "nouns": [
+            "dream",
+            "premonition",
+            "hidden symbol",
+            "hint"
+          ],
+          "verbs": [
+            "imagine",
+            "guess",
+            "predict",
+            "forcast"
+          ],
+          "adjectives": [
+            "symbolic",
+            "meaningful"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "nightmare",
+            "sleap paralysis demon",
+            "fear",
+            "unanswered question"
+          ],
+          "verbs": [
+            "hide",
+            "obscure",
+            "withhold",
+            "search fruitlessly"
+          ],
+          "adjectives": [
+            "meaningless",
+            "misleading",
+            "confusing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "7 of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "practice makes perfect",
+            "this too shall pass",
+            "keep trying",
+            "don't give up"
+          ],
+          "nouns": [
+            "craftsman",
+            "tenured professor",
+            "writer's block",
+            "panic",
+            "mental illness",
+            "depression",
+            "silver lining"
+          ],
+          "verbs": [
+            "study",
+            "meditate",
+            "hold firm",
+            "look inward"
+          ],
+          "adjectives": [
+            "patient",
+            "tolerant",
+            "deliberate",
+            "considered"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "weary traveler",
+            "writer's block",
+            "depression"
+          ],
+          "verbs": [
+            "cast off",
+            "give up",
+            "quit",
+            "break down",
+            "melt down"
+          ],
+          "adjectives": [
+            "frustrated",
+            "doubtful",
+            "abandoned"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "8 of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "sudden realizations are imminent"
+          ],
+          "nouns": [
+            "discovey",
+            "realization",
+            "revelation",
+            "breakthrough",
+            "epiphany"
+          ],
+          "verbs": [
+            "realize",
+            "come to understand",
+            "recognize"
+          ],
+          "adjectives": [
+            "sudden",
+            "rapid",
+            "unexpected",
+            "thunderous"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "you do not know it, but it is already done"
+          ],
+          "nouns": [
+            "bad news",
+            "ill fate",
+            "anticipation"
+          ],
+          "verbs": [
+            "realize",
+            "come to understand",
+            "recognize"
+          ],
+          "adjectives": [
+            "sibilant",
+            "silent",
+            "sudden",
+            "unexpected"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "9 of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "bad dreams happen for a reason"
+          ],
+          "nouns": [
+            "dream",
+            "premonition",
+            "hidden symbol",
+            "hint"
+          ],
+          "verbs": [
+            "imagine",
+            "guess",
+            "predict",
+            "forcast"
+          ],
+          "adjectives": [
+            "symbolic",
+            "meaningful"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "ignore unfounded fears"
+          ],
+          "nouns": [
+            "nightmare",
+            "sleap paralysis demon",
+            "fear",
+            "unanswered question"
+          ],
+          "verbs": [
+            "hide",
+            "obscure",
+            "withhold",
+            "search fruitlessly"
+          ],
+          "adjectives": [
+            "meaningless",
+            "misleading",
+            "confusing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "10 of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "face responsibilities head on"
+          ],
+          "nouns": [
+            "potential",
+            "opportunity",
+            "burden",
+            "responsibility"
+          ],
+          "verbs": [
+            "bare",
+            "accept",
+            "withstand"
+          ],
+          "adjectives": [
+            "heavy",
+            "weighty",
+            "full"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "duty",
+            "responsibility",
+            "burden"
+          ],
+          "verbs": [
+            "crumple",
+            "shirk",
+            "give in"
+          ],
+          "adjectives": [
+            "irresponsible",
+            "meak",
+            "unworthy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Page of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "head for the hills"
+          ],
+          "nouns": [
+            "student",
+            "college",
+            "highschool",
+            "college student",
+            "highschool student",
+            "seeker of knowledge"
+          ],
+          "verbs": [
+            "explore",
+            "experiment",
+            "play",
+            "travel"
+          ],
+          "adjectives": [
+            "clever",
+            "curious",
+            "heavy with potential"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "dilettante",
+            "poor student",
+            "the drop out"
+          ],
+          "verbs": [
+            "ignore",
+            "waste",
+            "flunk"
+          ],
+          "adjectives": [
+            "unfocused",
+            "undisciplined",
+            "foolish",
+            "uncontrolled"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Knight of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            ""
+          ],
+          "nouns": [
+            "fact finder",
+            "challenge",
+            "trip",
+            "experience"
+          ],
+          "verbs": [
+            "travel",
+            "explore",
+            "seek",
+            "study",
+            "research"
+          ],
+          "adjectives": [
+            "determined",
+            "insatiable",
+            "knowledgeable"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "bad trip",
+            "wrong path",
+            "waste of time",
+            "unanswered question"
+          ],
+          "verbs": [
+            "hide",
+            "obscure",
+            "withhold",
+            "search fruitlessly"
+          ],
+          "adjectives": [
+            "unsure",
+            "unaware",
+            "wrong headed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Queen of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "you're in your element",
+            "you are at the height of your powers",
+            "feed another living thing before you feed your self",
+            "trust your instincts"
+          ],
+          "nouns": [
+            "mother of art",
+            "gardener",
+            "poet",
+            "fortune teller",
+            "witch",
+            "truth speaker"
+          ],
+          "verbs": [
+            "give",
+            "produce",
+            "generate"
+          ],
+          "adjectives": [
+            "confident",
+            "potent",
+            "overflowing",
+            "ground breaking"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "girl who's not like other girls",
+            "trauma",
+            "liar"
+          ],
+          "verbs": [
+            "weep",
+            "scream meaninglessly",
+            "starve",
+            "forget"
+          ],
+          "adjectives": [
+            "canceled",
+            "problematic",
+            "bitter",
+            "too sad to make art",
+            "stunted"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "King of Wands",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "seek a trusted mentor's advice"
+          ],
+          "nouns": [
+            "wise man",
+            "monk",
+            "padre"
+          ],
+          "verbs": [
+            "seek",
+            "understand",
+            "know"
+          ],
+          "adjectives": [
+            "noble",
+            "wise",
+            "prudent"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "fool",
+            "vainglory",
+            "vanity"
+          ],
+          "verbs": [
+            "boast",
+            "grin",
+            "sneer"
+          ],
+          "adjectives": [
+            "tall",
+            "dark",
+            "handsome"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Ace of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "the cup overflows"
+          ],
+          "nouns": [
+            "selfworth",
+            "self-esteem",
+            "love"
+          ],
+          "verbs": [
+            "feel",
+            "understand",
+            "empathize"
+          ],
+          "adjectives": [
+            "emotional",
+            "beautiful",
+            "profound"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "loser",
+            "ghost",
+            "you"
+          ],
+          "verbs": [
+            "echo",
+            "call out",
+            "weep"
+          ],
+          "adjectives": [
+            "spilled",
+            "hurt",
+            "desolate",
+            "empty",
+            "heartless"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "2 of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "you may be more stable than you realize"
+          ],
+          "nouns": [
+            "relationship",
+            "partner",
+            "loving relationship"
+          ],
+          "verbs": [
+            "give",
+            "share",
+            "love generously"
+          ],
+          "adjectives": [
+            "stable",
+            "solid"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "selfish lover",
+            "jealous spouse",
+            "cheater"
+          ],
+          "verbs": [
+            "take without giving",
+            "deny feelings",
+            "ignore cry for help"
+          ],
+          "adjectives": [
+            "discordent",
+            "fraught"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "3 of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "Enjoy the wonderful people around you"
+          ],
+          "nouns": [
+            "throuple",
+            "Friendship",
+            "fullfilment",
+            "strong realationship"
+          ],
+          "verbs": [
+            "communicate",
+            "make love",
+            "laugh",
+            "party"
+          ],
+          "adjectives": [
+            "strong",
+            "trusting",
+            "stable"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "Seek long lasting relationships"
+          ],
+          "nouns": [
+            "online dating",
+            "fair weather friend",
+            "crush"
+          ],
+          "verbs": [
+            "date",
+            "admire",
+            "belong"
+          ],
+          "adjectives": [
+            "fickle",
+            "shallow",
+            "skin deep"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "4 of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "Pause, breath"
+          ],
+          "nouns": [
+            "isolation",
+            "seclusion",
+            "introspection"
+          ],
+          "verbs": [
+            "isolate",
+            "examinate",
+            "look inward"
+          ],
+          "adjectives": [
+            "isolated",
+            "lonely",
+            "conflicted"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "enjoy the quiet moments"
+          ],
+          "nouns": [
+            "meditation"
+          ],
+          "verbs": [
+            "breath",
+            "regenerate",
+            "day dream"
+          ],
+          "adjectives": [
+            "peaceful",
+            "under control",
+            "relaxed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "5 of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "look inward"
+          ],
+          "nouns": [
+            "lover",
+            "friend",
+            "loner",
+            "bad marriage"
+          ],
+          "verbs": [
+            "search",
+            "look for",
+            "look",
+            "hope for"
+          ],
+          "adjectives": [
+            "love sick",
+            "hungry",
+            "horny",
+            "lonely"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "lover",
+            "divorce",
+            "divorcee"
+          ],
+          "verbs": [
+            "berate",
+            "hurt",
+            "scorn",
+            "languish"
+          ],
+          "adjectives": [
+            "codependent",
+            "lonely",
+            "in pain",
+            "sad"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "6 of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "give love a chance"
+          ],
+          "nouns": [
+            "wedding",
+            "first date",
+            "meet cute",
+            "chance encounter",
+            "invitation"
+          ],
+          "verbs": [
+            "meat",
+            "invite",
+            "welcome",
+            "reach out"
+          ],
+          "adjectives": [
+            "new",
+            "hopefull",
+            "blooming",
+            "fresh"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "break up",
+            "divorce",
+            "ex wife",
+            "ex husband"
+          ],
+          "verbs": [
+            "leave",
+            "pull away",
+            "isolate"
+          ],
+          "adjectives": [
+            "estranged",
+            "cold",
+            "divorced"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "7 of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "Not all of our feelings are right or true"
+          ],
+          "nouns": [
+            "illusion",
+            "misdirection",
+            "hypochondriac",
+            "jealousy"
+          ],
+          "verbs": [
+            "misunderstand",
+            "believe",
+            "doubt"
+          ],
+          "adjectives": [
+            "fooled",
+            "confused",
+            "befuttled"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "lust",
+            "hunger",
+            "avarice"
+          ],
+          "verbs": [
+            "discover",
+            "examine",
+            "crave",
+            "desire"
+          ],
+          "adjectives": [
+            "hungry",
+            "itchy",
+            "empty"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "8 of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "Sudden emotional change may be imminent"
+          ],
+          "nouns": [
+            "breakup",
+            "self pity",
+            "adulthood",
+            "uncovered lie"
+          ],
+          "verbs": [
+            "leave",
+            "grow up",
+            "change forever"
+          ],
+          "adjectives": [
+            "sudden",
+            "painful",
+            "harrowing"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "Sudden emotional change may be imminent"
+          ],
+          "nouns": [
+            "epiphany",
+            "realization",
+            "truth"
+          ],
+          "verbs": [
+            "awaken",
+            "realize"
+          ],
+          "adjectives": [
+            "sudden",
+            "raw",
+            "existential",
+            "thunder struck"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "9 of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "share the wealth"
+          ],
+          "nouns": [
+            "expectations",
+            "abondance",
+            "generosity"
+          ],
+          "verbs": [
+            "fill",
+            "drink",
+            "party"
+          ],
+          "adjectives": [
+            "satisfied",
+            "victorious",
+            "proud"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "walk of shame",
+            "shame",
+            "hang over"
+          ],
+          "verbs": [
+            "mistake",
+            "vomit",
+            "oversleep"
+          ],
+          "adjectives": [
+            "pale",
+            "hung over",
+            "shamed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Page of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "Tell them how you feel"
+          ],
+          "nouns": [
+            "virgin",
+            "virgo",
+            "young lovers",
+            "sexual experimentation"
+          ],
+          "verbs": [
+            "try",
+            "explore",
+            "desire",
+            "yern"
+          ],
+          "adjectives": [
+            "passionate",
+            "shy",
+            "earnest",
+            "virtuous"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "Beware those that would use you"
+          ],
+          "nouns": [
+            "libido",
+            "desire",
+            "lust"
+          ],
+          "verbs": [
+            "abuse",
+            "take advantage of",
+            "grope"
+          ],
+          "adjectives": [
+            "jaded",
+            "silver-tongued",
+            "proud"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Knight of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "make love while you can"
+          ],
+          "nouns": [
+            "poet",
+            "witness to himself"
+          ],
+          "verbs": [
+            "feel deeply",
+            "satisfy",
+            "know thy self"
+          ],
+          "adjectives": [
+            "self possesed",
+            "self actualized"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "Try to get out more"
+          ],
+          "nouns": [
+            "loner",
+            "incel",
+            "masterbator"
+          ],
+          "verbs": [
+            "deny",
+            "hide",
+            "cower"
+          ],
+          "adjectives": [
+            "shy",
+            "loveless",
+            "heartless"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Queen of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "make good on your desires"
+          ],
+          "nouns": [
+            "mother",
+            "master of self",
+            "head of house",
+            "creator"
+          ],
+          "verbs": [
+            "sacrifice",
+            "create",
+            "feel",
+            "generate"
+          ],
+          "adjectives": [
+            "compassionate",
+            "giving",
+            "caring",
+            "understanding",
+            "loving",
+            "protective"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "parent",
+            "ill fit guardian",
+            "imposter",
+            "abuser",
+            "manipulatore"
+          ],
+          "verbs": [
+            "neglect",
+            "ignore",
+            "scorne"
+          ],
+          "adjectives": [
+            "disinterested",
+            "spiteful",
+            "uncaring",
+            "absent",
+            "remote",
+            "cold"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "King of Cups",
+      "orientation": [
+        {
+          "flipped": false,
+          "nouns": [
+            "dad",
+            "father",
+            "religious leader",
+            "leader",
+            "mentor"
+          ],
+          "verbs": [
+            "guide",
+            "shepherd",
+            "lead",
+            "mentor",
+            "bequeath",
+            "give",
+            "listen"
+          ],
+          "adjectives": [
+            "compassionate",
+            "giving",
+            "caring",
+            "understanding",
+            "loving",
+            "protective"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "dad",
+            "father",
+            "religious leader",
+            "leader",
+            "mentor",
+            "abuser",
+            "manipulatore"
+          ],
+          "verbs": [
+            "mislead",
+            "gaslight",
+            "scorn",
+            "ignore",
+            "withhold",
+            "take",
+            "put down"
+          ],
+          "adjectives": [
+            "disinterested",
+            "spiteful",
+            "uncaring",
+            "absent",
+            "remote",
+            "cold"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Ace of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "embody Justice"
+          ],
+          "nouns": [
+            "sword",
+            "power",
+            "soul",
+            "self"
+          ],
+          "verbs": [
+            "act",
+            "actualize",
+            "embody"
+          ],
+          "adjectives": [
+            "powerful",
+            "true",
+            "real"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "You will be punished"
+          ],
+          "nouns": [
+            "consequences",
+            "results",
+            "effects"
+          ],
+          "verbs": [
+            "fail",
+            "fall",
+            "lose"
+          ],
+          "adjectives": [
+            "failed",
+            "lost",
+            "weak"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "2 of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "Plan ahead"
+          ],
+          "nouns": [
+            "schemer",
+            "secret",
+            "plan",
+            "meditation"
+          ],
+          "verbs": [
+            "consider",
+            "plan",
+            "think ahead"
+          ],
+          "adjectives": [
+            "wise",
+            "prudent",
+            "considered"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "what gives must always take"
+          ],
+          "nouns": [
+            "scheme",
+            "plan",
+            "plan of attack",
+            "trick"
+          ],
+          "verbs": [
+            "trick",
+            "plan",
+            "scheme"
+          ],
+          "adjectives": [
+            "cunning",
+            "tricksom"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "3 of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "remember to be yourself"
+          ],
+          "nouns": [
+            "slight",
+            "insult",
+            "swear",
+            "scream"
+          ],
+          "verbs": [
+            "betray",
+            "lose",
+            "deny"
+          ],
+          "adjectives": [
+            "accidental",
+            "scandalous"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "you should apologize"
+          ],
+          "nouns": [
+            "self harm",
+            "suffering"
+          ],
+          "verbs": [
+            "clenched",
+            "fickle"
+          ],
+          "adjectives": [
+            "cloudy",
+            "sensitive",
+            "embaressed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "4 of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "consider your upcoming plans carefully"
+          ],
+          "nouns": [
+            "meditation",
+            "vigilance"
+          ],
+          "verbs": [
+            "consider",
+            "meditate",
+            "isolate"
+          ],
+          "adjectives": [
+            "careful",
+            "thoughtful",
+            "planned",
+            "quiet"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "seek out alliance"
+          ],
+          "nouns": [
+            "loner",
+            "assasin",
+            "lone wolf"
+          ],
+          "verbs": [
+            "isolate",
+            "hide",
+            "ignore"
+          ],
+          "adjectives": [
+            "secluded",
+            "cut off"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "5 of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "Be bold and mighty forces will come to your aid"
+          ],
+          "nouns": [
+            "price",
+            "conflict",
+            "battle",
+            "collision"
+          ],
+          "verbs": [
+            "fight",
+            "destroy",
+            "crush",
+            "judge"
+          ],
+          "adjectives": [
+            "enbattled",
+            "hardened",
+            "stern"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "Stand up to bullies"
+          ],
+          "nouns": [
+            "coward",
+            "wimp",
+            "scardy cat"
+          ],
+          "verbs": [
+            "back down",
+            "run away",
+            "surrender"
+          ],
+          "adjectives": [
+            "cautious",
+            "cowardly",
+            "scared"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "6 of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "Consider running for election"
+          ],
+          "nouns": [
+            "democracy",
+            "political shift",
+            "movement"
+          ],
+          "verbs": [
+            "win",
+            "inherit",
+            "come to power"
+          ],
+          "adjectives": [
+            "changing",
+            "uncertain",
+            "in flux"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "Beware of power changing hands"
+          ],
+          "nouns": [
+            "election",
+            "coup d'état",
+            "take over"
+          ],
+          "verbs": [
+            "take over",
+            "dominate",
+            "take control"
+          ],
+          "adjectives": [
+            "changing",
+            "uncertain",
+            "in flux"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "7 of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "pick your battles"
+          ],
+          "nouns": [
+            "multiple opponents",
+            "adversaries",
+            "multiple point of view",
+            "conflict"
+          ],
+          "verbs": [
+            "juggling",
+            "balancing"
+          ],
+          "adjectives": [
+            "complicated",
+            "subtle",
+            "intricate"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "consider other points of view"
+          ],
+          "nouns": [
+            "multiple opponents",
+            "adversaries",
+            "multiple point of view",
+            "conflict"
+          ],
+          "verbs": [
+            "fall apart",
+            "go to pieces",
+            "break down"
+          ],
+          "adjectives": [
+            "overcomplicated",
+            "impenetrable",
+            "overwhelmed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "8 of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "legal battles may resolve shortly"
+          ],
+          "nouns": [
+            "ruling",
+            "decision",
+            "news"
+          ],
+          "verbs": [
+            "conclude",
+            "decide",
+            "arrive at"
+          ],
+          "adjectives": [
+            "lawful",
+            "crucial"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "you got a ticket"
+          ],
+          "nouns": [
+            "ticket",
+            "lawsuit",
+            "class action",
+            "court"
+          ],
+          "verbs": [
+            "plead",
+            "appeal"
+          ],
+          "adjectives": [
+            "guilty",
+            "obligated"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "9 of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "Dreams happen for a reason"
+          ],
+          "nouns": [
+            "testament",
+            "omen",
+            "warning"
+          ],
+          "verbs": [
+            "head",
+            "warn",
+            "spell",
+            "disseminate"
+          ],
+          "adjectives": [
+            "brooding",
+            "menacing",
+            "baleful"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "an ogre in a dream, incapable of being bruised or evaded"
+          ],
+          "nouns": [
+            "disaster",
+            "accident",
+            "consequences",
+            "nightmare"
+          ],
+          "verbs": [
+            "bode",
+            "hinder",
+            "paralyze"
+          ],
+          "adjectives": [
+            "scary",
+            "ill",
+            "terrifying"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "10 of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "You will be decimated"
+          ],
+          "nouns": [
+            "war",
+            "punishment",
+            "destruction"
+          ],
+          "verbs": [
+            "destroy",
+            "pumel",
+            "humiliate"
+          ],
+          "adjectives": [
+            "overpowered",
+            "ursine",
+            "forceful"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "You're advantage may not last"
+          ],
+          "nouns": [
+            "attrition",
+            "overwelming force",
+            "dominance"
+          ],
+          "verbs": [
+            "take",
+            "grow endlessly",
+            "accumulate"
+          ],
+          "adjectives": [
+            "influential",
+            "vicious",
+            "cruel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Page of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "everybody starts somewhere"
+          ],
+          "nouns": [
+            "debate club",
+            "convert",
+            "community organizer",
+            "volunteer"
+          ],
+          "verbs": [
+            "opine",
+            "declare",
+            "believe",
+            "debate"
+          ],
+          "adjectives": [
+            "goal oriented",
+            "driven"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "unfortunately not all people mean what they say"
+          ],
+          "nouns": [
+            "bureaucrat",
+            "call center",
+            "scam artist"
+          ],
+          "verbs": [
+            "snitch",
+            "lie",
+            "gossip"
+          ],
+          "adjectives": [
+            "unafraid",
+            "cheecky"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Knight of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "get out and vote"
+          ],
+          "nouns": [
+            "partisan",
+            "party member",
+            "comrade",
+            "soldier",
+            "electors"
+          ],
+          "verbs": [
+            "vote",
+            "canvass",
+            "discuss"
+          ],
+          "adjectives": [
+            "personal",
+            "impersonal",
+            "grassroots"
+          ]
+        },
+        {
+          "flipped": true,
+          "advice": [
+            "get a real job"
+          ],
+          "nouns": [
+            "lobbyist",
+            "sailsman",
+            "influencer"
+          ],
+          "verbs": [
+            "sell",
+            "shill",
+            "influence"
+          ],
+          "adjectives": [
+            "shameless",
+            "proud",
+            "unconcerned"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Queen of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "step on your enemies"
+          ],
+          "nouns": [
+            "dominatrix",
+            "sex worker",
+            "witch",
+            "powerful woman",
+            "Justice"
+          ],
+          "verbs": [
+            "withhold",
+            "demand",
+            "dominate"
+          ],
+          "adjectives": [
+            "commanding",
+            "confident",
+            "in control"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "sex worker",
+            "home wrecker",
+            "Courtesan",
+            "lady macbeth"
+          ],
+          "verbs": [
+            "control",
+            "manipulate",
+            "destroy",
+            "abuse"
+          ],
+          "adjectives": [
+            "controlling",
+            "power hungry",
+            "clever",
+            "willful"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "King of Swords",
+      "orientation": [
+        {
+          "flipped": false,
+          "advice": [
+            "seek office"
+          ],
+          "nouns": [
+            "politician",
+            "master",
+            "judge",
+            "leader",
+            "general",
+            "president"
+          ],
+          "verbs": [
+            "dictate",
+            "decide",
+            "proselytize",
+            "lead"
+          ],
+          "adjectives": [
+            "responsible",
+            "in command",
+            "in control",
+            "at war"
+          ]
+        },
+        {
+          "flipped": true,
+          "nouns": [
+            "dictator",
+            "facist",
+            "war maker"
+          ],
+          "verbs": [
+            "command",
+            "destroy",
+            "make war",
+            "order",
+            "pacify",
+            "mollify",
+            "mislead"
+          ],
+          "adjectives": [
+            "controlling",
+            "power hungry",
+            "guilty"
+          ]
+        }
+      ]
+    }
+  ]
+}

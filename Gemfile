@@ -1,4 +1,4 @@
-ruby "2.5.1"
+ruby "3.1.2"
 
 source "https://rubygems.org"
 
@@ -6,7 +6,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem 'http'
 gem 'jwt'
-gem 'discordrb', github: 'swarley/discordrb', branch: 'voice_websocket_update'
+gem 'discordrb'
 gem 'nokogiri'
 gem 'pry'
 
