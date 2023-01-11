@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Kevin Suarez"]
   s.email       = "kjsuarez94@gmail.com"
   s.add_runtime_dependency "nokogiri",
-    ["= 1.10.9"]
+    "= 1.13.10"
   s.add_runtime_dependency "discordrb",
     ["= 3.4.0"]
   s.files       = [
