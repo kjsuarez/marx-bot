@@ -7,12 +7,21 @@ require_relative 'marxbot/tarot/fortune'
 
 
 class MarxBot
-  def initialize(token:)
+  attr_reader :bot, :auto_stop, :stop_time
+  def initialize(token:, auto_stop:false, stop_time:60*15)
     @token = token
+    @auto_stop = auto_stop
+    @stop_time = stop_time
     @bot = Discordrb::Bot.new token: @token
     @noun_path = File.join(File.dirname(__FILE__), "noun.json")
     @adjective_path = File.join(File.dirname(__FILE__), "adjective.json")
     @slogan_path = File.join(File.dirname(__FILE__), "slogans.json")
+  end
+
+  def stop_eventually()
+    sleep(@stop_time)
+    @bot.stop
+    puts "$$$ The Bot should be stopped $$$"
   end
 
   def get_slogan()
@@ -54,6 +63,11 @@ class MarxBot
   def run()
     @bot.message(content: 'ping') do |event|
       event.respond 'pong'
+    end
+
+    @bot.message(containing: '!sleep') do |event|
+       event.respond("\"Good night Moon.\"")
+       @bot.stop
     end
 
     @bot.message(containing: '!slogan') do |event|
@@ -216,6 +230,13 @@ class MarxBot
       end
     end
 
-    @bot.run
+    if @auto_stop
+      threads = []
+      threads << Thread.new { @bot.run }
+      threads << Thread.new { self.stop_eventually() }
+      threads.each(&:join)
+    else
+      @bot.run
+    end
   end
 end
